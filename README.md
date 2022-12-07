@@ -12,5 +12,5 @@ Welcome to my github page!
 
 I'm currently participating in [Advent of Code](https://adventofcode.com/) for the first time, and it's great fun!
 
-[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk)](https://github.com/anuraghazra/github-readme-stats)
+[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
