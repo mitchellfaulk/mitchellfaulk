@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi there 👋
 
 Welcome to my github page! 
 
