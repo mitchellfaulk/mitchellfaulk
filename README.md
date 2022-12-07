@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 Welcome to my github page! 
 
 - 🔭 My latest projects revolve around studying, analyzing, and simulating the card game SET. 
@@ -12,5 +14,5 @@ Welcome to my github page!
 
 I'm currently participating in [Advent of Code](https://adventofcode.com/) for the first time, and it's great fun!
 
-[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
