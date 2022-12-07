@@ -9,7 +9,7 @@ Welcome to my github page!
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm also teaching myself how to play (and sing) acoustic guitar. 
 
-I'm currently participating in [Advent of Code](https://adventofcode.com/).
+I'm currently participating in [Advent of Code](https://adventofcode.com/) for the first time, and it's great fun!
 
 [![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk)](https://github.com/anuraghazra/github-readme-stats)
 
