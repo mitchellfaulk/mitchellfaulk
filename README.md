@@ -1,5 +1,3 @@
-[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 Welcome to my github page! 
@@ -14,5 +12,6 @@ Welcome to my github page!
 
 I'm currently participating in [Advent of Code](https://adventofcode.com/) for the first time, and it's great fun!
 
+[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
