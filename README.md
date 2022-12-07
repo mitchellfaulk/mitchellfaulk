@@ -1,19 +1,13 @@
 ### Hi there 👋
 
+Welcome to my github page! 
+
+- 🔭 My latest projects revolve around studying, analyzing, and simulating the card game SET. 
+- 🌱 I mainly work in Python, HTML, CSS, JavaScript, LaTeX. 
+- 👯 If you want to collaborate, don't hesitate to reach out! 
+- 📫 How to reach me: mitchellmfaulk at gmail
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm also teaching myself how to play (and sing) acoustic guitar. 
+
 [![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellfaulk)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**mitchellfaulk/mitchellfaulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
