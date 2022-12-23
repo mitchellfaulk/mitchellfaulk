@@ -4,7 +4,6 @@ Welcome to my github page!
 
 - 🔭 My latest projects revolve around studying, analyzing, and simulating the card game SET. 
 - 🌱 I mainly work in Python, HTML, CSS, JavaScript, LaTeX. 
-- 🤓 I'm learning Java, Rust.
 - 👯 If you want to collaborate, don't hesitate to reach out! 
 - 📫 How to reach me: mitchellmfaulk at gmail
 - 😄 Pronouns: He/Him/His
