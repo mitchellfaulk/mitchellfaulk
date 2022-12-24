@@ -3,7 +3,7 @@
 Welcome to my github page! 
 
 - 🔭 My latest projects revolve around studying, analyzing, and simulating the card game SET. 
-- 🌱 I mainly work in Python, HTML, CSS, JavaScript, LaTeX. 
+- 🌱 At this time, I mainly work in Python, JavaScript. 
 - 👯 If you want to collaborate, don't hesitate to reach out! 
 - 📫 How to reach me: mitchellmfaulk at gmail
 - 😄 Pronouns: He/Him/His
